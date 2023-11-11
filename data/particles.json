@@ -1,0 +1,264 @@
+[
+  {
+    "particle_name": "electron",
+    "particle_type": "fermion",
+    "particle_family": "lepton",
+    "particle_generation": "first",
+    "color_charge": false,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "weak"
+    ],
+    "antiparticle_name": "positron",
+    "electric_charge_e": -1,
+    "particle_spin_hbar": 0.5,
+    "mass_eV_c2": 511000
+  },
+  {
+    "particle_name": "electron neutrino",
+    "particle_type": "fermion",
+    "particle_family": "lepton",
+    "particle_generation": "first",
+    "color_charge": false,
+    "interactions": [
+      "gravity",
+      "weak"
+    ],
+    "antiparticle_name": "electron antineutrino",
+    "electric_charge_e": 0,
+    "particle_spin_hbar": 0.5,
+    "mass_eV_c2": 0.161
+  },
+  {
+    "particle_name": "muon",
+    "particle_type": "fermion",
+    "particle_family": "lepton",
+    "particle_generation": "second",
+    "color_charge": false,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "weak"
+    ],
+    "antiparticle_name": "antimuon",
+    "electric_charge_e": -1,
+    "particle_spin_hbar": 0.5,
+    "mass_eV_c2": 105660000
+  },
+  {
+    "particle_name": "muon neutrino",
+    "particle_type": "fermion",
+    "particle_family": "lepton",
+    "particle_generation": "second",
+    "color_charge": false,
+    "interactions": [
+      "gravity",
+      "weak"
+    ],
+    "antiparticle_name": "muon antineutrino",
+    "electric_charge_e": 0,
+    "particle_spin_hbar": 0.5,
+    "mass_eV_c2": 0.161
+  },
+  {
+    "particle_name": "tauon",
+    "particle_type": "fermion",
+    "particle_family": "lepton",
+    "particle_generation": "third",
+    "color_charge": false,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "weak"
+    ],
+    "antiparticle_name": "antitau",
+    "electric_charge_e": -1,
+    "particle_spin_hbar": 0.5,
+    "mass_eV_c2": 1776860000
+  },
+  {
+    "particle_name": "tauon neutrino",
+    "particle_type": "fermion",
+    "particle_family": "lepton",
+    "particle_generation": "third",
+    "mass(eV/c2)": 0.161,
+    "color_charge": false,
+    "interactions": [
+      "gravity",
+      "weak"
+    ],
+    "antiparticle_name": "tau antineutrino",
+    "electric_charge_e": 0,
+    "particle_spin_hbar": 0.5
+  },
+  {
+    "particle_name": "up quark",
+    "particle_type": "fermion",
+    "particle_family": "quark",
+    "particle_generation": "first",
+    "particle_spin_hbar": 0.5,
+    "electric_charge_e": 0.66,
+    "color_charge": true,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "strong",
+      "weak"
+    ],
+    "antiparticle_name": "up antiquark",
+    "mass_eV_c2": 2200000
+  },
+  {
+    "particle_name": "down quark",
+    "particle_type": "fermion",
+    "particle_family": "quark",
+    "particle_generation": "first",
+    "particle_spin_hbar": 0.5,
+    "electric_charge_e": -0.33,
+    "color_charge": true,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "strong",
+      "weak"
+    ],
+    "antiparticle_name": "down antiquark",
+    "mass_eV_c2": 4700000
+  },
+  {
+    "particle_name": "charm quark",
+    "particle_type": "fermion",
+    "particle_family": "quark",
+    "particle_generation": "second",
+    "particle_spin_hbar": 0.5,
+    "electric_charge_e": 0.66,
+    "color_charge": true,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "strong",
+      "weak"
+    ],
+    "antiparticle_name": "charm antiquark",
+    "mmass_eV_c2": 1270000000
+  },
+  {
+    "particle_name": "strange quark",
+    "particle_type": "fermion",
+    "particle_family": "quark",
+    "particle_generation": "second",
+    "particle_spin_hbar": 0.5,
+    "electric_charge_e": -0.33,
+    "color_charge": true,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "strong",
+      "weak"
+    ],
+    "antiparticle_name": "strange antiquark",
+    "mass_eV_c2": 95000000
+  },
+  {
+    "particle_name": "top quark",
+    "particle_type": "fermion",
+    "particle_family": "quark",
+    "particle_generation": "third",
+    "particle_spin_hbar": 0.5,
+    "electric_charge_e": 0.66,
+    "color_charge": true,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "strong",
+      "weak"
+    ],
+    "antiparticle_name": "top antiquark",
+    "mass_eV_c2": 172760000000
+  },
+  {
+    "particle_name": "bottom quark",
+    "particle_type": "fermion",
+    "particle_family": "quark",
+    "particle_generation": "third",
+    "particle_spin_hbar": 0.5,
+    "electric_charge_e": -0.33,
+    "color_charge": true,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "strong",
+      "weak"
+    ],
+    "antiparticle_name": "bottom antiquark",
+    "mass_eV_c2": 4180000000
+  },
+  {
+    "particle_name": "photon",
+    "particle_type": "boson",
+    "particle_family": "gauge",
+    "color_charge": false,
+    "interactions": [
+      "electromagnetic",
+      "gravity",
+      "weak"
+    ],
+    "antiparticle_name": "photon",
+    "electric_charge_e": 0,
+    "particle_spin_hbar": 1,
+    "mass_eV_c2": 0
+  },
+  {
+    "particle_name": "W boson",
+    "particle_type": "boson",
+    "particle_family": "gauge",
+    "color_charge": false,
+    "interactions": [
+      "weak"
+    ],
+    "antiparticle_name": "W+ boson",
+    "electric_charge_e": 1,
+    "particle_spin_hbar": 1,
+    "mass_eV_c2": 80377000
+  },
+  {
+    "particle_name": "Z boson",
+    "particle_type": "boson",
+    "particle_family": "gauge",
+    "color_charge": false,
+    "interactions": [
+      "weak"
+    ],
+    "antiparticle_name": "Z boson",
+    "electric_charge_e": 0,
+    "particle_spin_hbar": 1,
+    "mass_eV_c2": 91187600
+  },
+  {
+    "particle_name": "gluon",
+    "particle_type": "boson",
+    "particle_family": "gauge",
+    "color_charge": true,
+    "interactions": [
+      "strong"
+    ],
+    "antiparticle_name": "gluon",
+    "electric_charge_e": 0,
+    "particle_spin_hbar": 1,
+    "mass_eV_c2": 0
+  },
+  {
+    "particle_name": "Higgs boson",
+    "particle_type": "boson",
+    "particle_family": "scalar",
+    "color_charge": false,
+    "interactions": [
+      "mass"
+    ],
+    "antiparticle_name": "Higgs boson",
+    "electric_charge_e": 0,
+    "particle_spin_hbar": 0,
+    "mass_eV_c2": 125110000
+  }
+]
